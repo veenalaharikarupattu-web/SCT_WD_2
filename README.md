@@ -67,7 +67,7 @@ cd stopwatch-project
 
 ## Lap Feature
 
-![Lap Feature](screenshots/laps.png)
+![Lap Feature](screenshots/lap.png)
 ---
 
 # 🎯 Future Improvements
