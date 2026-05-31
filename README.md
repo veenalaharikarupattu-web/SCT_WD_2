@@ -70,15 +70,6 @@ cd stopwatch-project
 ![Lap Feature](screenshots/lap.png)
 ---
 
-# 🎯 Future Improvements
-
-- Dark / Light Theme Toggle
-- Keyboard Shortcuts
-- Export Lap Times
-- Sound Effects
-- Mobile App Version
-
----
 
 # 👨‍💻 Author
 
